@@ -5,7 +5,6 @@ title: Best Privacy browsers
 excerpt: ''
 date: 
 hero: "/images/external-content-duckduckgo-com.jpg"
-draft: true
 
 ---
 1. [Firefox](https://www.mozilla.org/firefox/) firefox isn't private out of the box but there are additional addons you can install to make it more private 
