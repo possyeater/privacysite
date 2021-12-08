@@ -1,6 +1,7 @@
 ---
 timeToRead: 0
-authors: []
+authors:
+- Hristijan Kjosevski
 title: Best Privacy browsers
 excerpt: ''
 date: 2021-12-08T00:00:00+01:00
