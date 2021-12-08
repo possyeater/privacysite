@@ -3,7 +3,7 @@ timeToRead: 0
 authors: []
 title: Best Privacy browsers
 excerpt: ''
-date: 
+date: 2021-12-08T00:00:00+01:00
 hero: "/images/external-content-duckduckgo-com.jpg"
 
 ---
