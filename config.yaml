@@ -1,6 +1,6 @@
 baseURL: "https://example.com"
 languageCode: "en-us"
-title: "Hugo Novela"
+title: "Privacy site"
 pygmentsstyle: 'monokai'
 metaDataFormat: yaml
 
